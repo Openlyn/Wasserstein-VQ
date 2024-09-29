@@ -1,2 +1,1 @@
 # Wasserstein-VQ
-# Wasserstein-VQ
